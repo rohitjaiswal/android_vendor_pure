@@ -13,3 +13,4 @@ add_lunch_combo athene-userdebug
 add_lunch_combo addison-userdebug
 add_lunch_combo potter-userdebug
 add_lunch_combo onyx-userdebug
+add_lunch_combo s2-userdebug
